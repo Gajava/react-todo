@@ -1,0 +1,49 @@
+.App {
+
+  text-align: center;
+
+  font-size: larger;
+
+}
+
+
+
+
+span {
+
+  margin-right: 50px;
+
+}
+
+input {
+
+  margin-bottom: 40px;
+
+}
+
+h1 {
+
+  margin-bottom: 90px;
+
+  margin-left: 200px;
+
+
+
+}
+
+.box {
+
+  background-color: white;
+
+  margin-left: 400px;
+
+  margin-right: 200px;
+
+  height: 300px;
+
+  border-style: dashed;
+
+}
+body{
+  background-color: thistle;
+}
